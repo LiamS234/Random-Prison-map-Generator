@@ -56,8 +56,8 @@
 - **Room -> GameObject transition:** `CreateRoomWalls.cs` and `RoomFactory.cs` to see how data maps to Unity objects.  
 - **Floor tiling / exclusion:** `FloorGenerator.cs` and `FloorTileGenerator.cs` to see how fixed rooms are excluded from tiles.
 
-## Extras (if present in repo)
-- `docs/` — screenshots of random layouts produced with building roofs removed to show samples.
+## Extras
+- 'RandomPrisonLayoutX.png' - 3 screenshots showing random layouts with building ceilings removed for samples.
 
 ## Contact
 Liam Smith — liam.smith234@gmail.com — https://liamsmith234.itch.io/
