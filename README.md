@@ -39,6 +39,7 @@ These five files are the most representative of the project architecture and eng
 
 ## Additional files to look for
 - `ARCHITECTURE.md` — high-level overview and reading tips (below).
+- `docs/` — screenshots showing random layouts with building ceilings removed for samples.
 
 ## Notes for reviewers
 - The code is intentionally focused on algorithmic clarity and modularity — look for clear single-responsibility classes and small helpers (CoordinateUtils, SegmentCalculator, Grid helpers).
