@@ -43,7 +43,7 @@ These five files are the most representative of the project architecture and eng
 
 ## Notes for reviewers
 - The code is intentionally focused on algorithmic clarity and modularity — look for clear single-responsibility classes and small helpers (CoordinateUtils, SegmentCalculator, Grid helpers).
-- Many objects are primitive cubes for the prototype; the focus is on systems and placement accuracy.
+- Onjects are primitive shapes for the prototype; the focus is on systems and placement accuracy.
 
 ## Contact
 Liam Smith — liam.smith234@gmail.com — https://liamsmith234.itch.io/
