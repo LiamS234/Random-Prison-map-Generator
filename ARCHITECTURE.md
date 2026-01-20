@@ -45,7 +45,7 @@
 - **Separation of calculation vs rendering:** helper classes (SegmentCalculator, CoordinateUtils) compute positions/scales; SegmentRenderer/WallBuilder do instantiation.
 
 ## Testing & performance notes
-- Prototype uses primitive cubes (low poly) to allow fast iteration in Editor and WebGL.
+- Prototype uses primitive shapes.
 - The occupancy grid and incremental placement logic are intentionally cheap; `RoomPlacer` reduces room size rather than running complex packing.
 - Avoid large per-frame allocations in generation flows — generation runs in an initialization step not during gameplay.
 
